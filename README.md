@@ -10,7 +10,7 @@ __Lenguajes usados en el proyecto:__
 PHP, CSS, HTML5
 
 ### Proyectos a futuro:
-APrender BASH con [Nisamov](https://github.com/Nisamov) y desarrollar programas que aporten a la industria tecnológica.
+Aprender BASH con [Nisamov](https://github.com/Nisamov) y desarrollar programas que aporten a la industria tecnológica.
 
 **Redes Sociales:**
 - Discord: .ferdream
